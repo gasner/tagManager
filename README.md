@@ -1,7 +1,8 @@
 
 # TagManager
 
-This component provides the functionality to compare PHP values for equality.
+This package helps you easily add tags to different records in different tables.
+Designed for Laravel framework only
 
 ## Installation
 
